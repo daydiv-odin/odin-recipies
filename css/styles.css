@@ -1,9 +1,9 @@
-.subtitles{
+p.subtitles{
     color:aqua;
 }
-.title{
+p.title{
     color:chocolate;
 }
 *{
-    color:purple;
+    font-weight:900;
 }
