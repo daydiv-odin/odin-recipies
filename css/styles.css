@@ -1,9 +1,16 @@
 #subtitles{
     color:aqua;
+    font-size: x-large;
 }
 #title{
     color:chocolate;
+    font-size:xx-large;
 }
 *{
     font-weight:900;
+}
+img{
+    height:500px; 
+    width:auto ;
+
 }
