@@ -1,7 +1,7 @@
-p.subtitles{
+#subtitles{
     color:aqua;
 }
-p.title{
+#title{
     color:chocolate;
 }
 *{
