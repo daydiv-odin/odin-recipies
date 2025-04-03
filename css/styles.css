@@ -2,7 +2,7 @@
     color:aqua;
     font-size: x-large;
     font-family: Arial, Helvetica, sans-serif;
-    outline:black;
+    outline:2px black;
 }
 #title{
     color:chocolate;
@@ -12,7 +12,7 @@
 *{
     font-weight:900;
     font-family: cursive;
-    margin: blue;
+    margin:5px blue;
 }
 img{
     height:500px; 
