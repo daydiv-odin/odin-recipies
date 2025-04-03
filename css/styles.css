@@ -13,6 +13,7 @@
     font-weight:900;
     font-family: cursive;
     margin:5px;
+    outline: 1px solid blue;
 }
 img{
     height:500px; 
