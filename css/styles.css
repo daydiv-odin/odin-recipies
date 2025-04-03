@@ -16,6 +16,7 @@
     outline: 1px solid blue;
     outline-offset: 0;
     box-sizing: border-box;
+    border: 0px;
 }
 img{
     height:500px; 
